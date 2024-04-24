@@ -1019,26 +1019,3 @@ footer{
     }
 }
 
-#la_nostra_storia{
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    background-color:var(--verde-chiaro);
-    margin-top: 150px;
-    margin-bottom: 600px;
-
-    h1{
-        font-size: 40px;
-  
-    }
-    p{
-        font-size: 20px;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    #la_nostra_storia{
-        margin-top: 300px;
-    }
-    
-}
