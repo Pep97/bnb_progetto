@@ -100,6 +100,17 @@ header {
     
 }
 
+footer{
+    margin-top: 100px;
+}
+
+@media screen and (max-width: 768px) {
+    footer{
+        margin-top: 400px;
+    }
+    
+}
+
 
 .title{
     font-size: 40px;
